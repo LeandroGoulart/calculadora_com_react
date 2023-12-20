@@ -1,4 +1,6 @@
 # Calculadora React
+
+
 Esta é uma calculadora simples desenvolvida com React e styled-components, demonstrando minhas habilidades no desenvolvimento front-end e domínio das bibliotecas mencionadas.
 
 
@@ -11,6 +13,8 @@ Interface de usuário limpa e responsiva.
 
 
 Utiliza styled-components para uma estilização eficiente e elegante.
+
+___
 
 
 ## Como Utilizar
@@ -26,9 +30,11 @@ Utiliza styled-components para uma estilização eficiente e elegante.
 -Abra localhost:3000 no seu navegador para explorar a calculadora.
 ou pode testar no link da [Calculadora](https://leandrogoulart.github.io/calculadora_com_react/)
 
+___
+
 
 ## Estrutura do Projeto
-A organização do projeto é composta por:
+### A organização do projeto é composta por:###
 
 
 ***App.js*:** Componente principal contendo toda a lógica da calculadora.
@@ -43,6 +49,9 @@ A organização do projeto é composta por:
 ***operations*:** Componente contendo toda a lógica de operação da calculadora.
 
 
+___
+
+
 ## Conclusão e Contato
 Este projeto reflete minha habilidade em criar aplicações web interativas com React. 
 
@@ -51,6 +60,10 @@ Estou à vontade com conceitos como componentes, estado, props e estilização c
 Dúvidas ou comentários? Fique à vontade para entrar em contato!
 
  
-Email: [leandrovgoulart@gmail.com]
+Email: leandrovgoulart@gmail.com
+
+
 LinkedIn: [Leandro Goulart](https://www.linkedin.com/in/leandrovgoulart/)
+
+
 Obrigado por considerar minha aplicação!
