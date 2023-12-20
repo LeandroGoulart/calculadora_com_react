@@ -9,9 +9,7 @@ export const InputContainer = styled.div`
     align-items: center;
     justify-content: flex-end;
 
-    font-size: 24px;
-    font-family: 'Roboto';
-    
+    margin-bottom: 20px; // Adiciona margem na parte inferior
 
     input {
         width: 100%;

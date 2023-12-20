@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react';
 import Input from './components/Input';
-import Button from './components/Button';
+import  Button from './components/Button';
+import { ZeroButton } from './components/Button/styles';
 import { Container, Content, Row } from './styles';
+import { add, subtract, multiply, divide, useCalculator } from './operations';
 
-import { useCalculator } from './useCalculator';
-import { add, subtract, multiply, divide } from './operations';
 
 const App = () => {
   const {
@@ -61,8 +61,9 @@ const App = () => {
       <Content>
         <Input value={currentNumber} />
         <Row>
-          <Button label="AC" onClick={handleOnClear} />
-          <Button label="/" onClick={() => handleOperation('/')} />
+          <Button label="c" onClick={handleOnClear} />
+          
+          <Button label="=" onClick={handleEquals} />
         </Row>
         <Row>
           <Button label="7" onClick={() => handleAddNumber('7')} />
@@ -85,7 +86,7 @@ const App = () => {
         <Row>
           <Button label="0" onClick={() => handleAddNumber('0')} />
           <Button label="." onClick={() => handleAddNumber('.')} />
-          <Button label="=" onClick={handleEquals} />
+          <Button label="/" onClick={() => handleOperation('/')} />
         </Row>
       </Content>
     </Container>
