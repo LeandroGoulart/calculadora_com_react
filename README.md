@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Calculadora React
+Esta é uma calculadora simples desenvolvida com React e styled-components, demonstrando minhas habilidades no desenvolvimento front-end e domínio das bibliotecas mencionadas.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Recursos Destacados
+Suporta operações básicas: adição, subtração, multiplicação e divisão.
+Interface de usuário limpa e responsiva.
+Utiliza styled-components para uma estilização eficiente e elegante.
 
-In the project directory, you can run:
 
-### `npm start`
+## Como Utilizar
+-Clone este repositório.
+-Navegue até a pasta do projeto e execute npm install para instalar as dependências.
+-Execute npm start para iniciar o servidor de desenvolvimento.
+-Abra localhost:3000 no seu navegador para explorar a calculadora.
+ou pode testar no link da [Calculadora](https://leandrogoulart.github.io/calculadora_com_react/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Estrutura do Projeto
+A organização do projeto é composta por:
+*App.js: Componente principal contendo toda a lógica da calculadora.
+*components: Pasta com componentes reutilizáveis, como Button e Input.
+*styles: Componente com os estilos utilizando styled-components.
+*operations: Componente contendo toda a lógica de operação da calculadora.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Conclusão e Contato
+Este projeto reflete minha habilidade em criar aplicações web interativas com React. Estou à vontade com conceitos como componentes, estado, props e estilização com styled-components. Estou entusiasmado em aplicar essas habilidades à sua equipe.
 
-### `npm run build`
+Dúvidas ou comentários? Fique à vontade para entrar em contato!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ 
+Email: [leandrovgoulart@gmail.com]
+LinkedIn: [Leandro Goulart](https://www.linkedin.com/in/leandrovgoulart/)
+Obrigado por considerar minha aplicação!
