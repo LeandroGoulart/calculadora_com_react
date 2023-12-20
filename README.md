@@ -1,4 +1,5 @@
 # Calculadora React
+![Capa](https://github.com/LeandroGoulart/calculadora_com_react/assets/82618246/20978199-0c2d-457c-b196-f67025f04b79)
 
 
 Esta é uma calculadora simples desenvolvida com React e styled-components, demonstrando minhas habilidades no desenvolvimento front-end e domínio das bibliotecas mencionadas.
